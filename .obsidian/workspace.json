@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d19cf8aa6c310cf4",
+        "id": "26dda0bc6cd8453b",
         "type": "tabs",
         "children": [
           {
-            "id": "f855e1d863f1e999",
+            "id": "87fa5ffa4ca418de",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "773607c6039d902f",
@@ -159,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 716.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d07a4d25332756f",
+  "active": "87fa5ffa4ca418de",
   "lastOpenFiles": [
+    "00 - Learning/Java/ООП.md",
+    "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
     "00 - Learning/Java/Класс.md",
     "00 - Learning/Java/Полиморфизм.md",
-    "00 - Learning/Java/ООП.md",
     "00 - Learning/Java/Инкапсуляция.md",
     "00 - Learning/Java/Байт-код Java.md",
     "00 - Learning/Java/История Java.md",
-    "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
     "00 - Learning/Java/Наследование.md",
     "00 - Learning/Java/Интерфейс.md",
     "00 - Learning/00 - Books/OpenGL_4.pdf",
