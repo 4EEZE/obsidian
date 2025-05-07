@@ -3,5 +3,5 @@
 git clone https://github.com/4EEZE/obsidian
 ```
 
-REQUIRED
+# REQUIRED
 https://git-lfs.com/
