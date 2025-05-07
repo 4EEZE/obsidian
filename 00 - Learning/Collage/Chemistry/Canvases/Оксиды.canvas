@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e07ed9ddfe2f9287","type":"text","text":"Оксиды\n(имеет в составе O)","x":300,"y":60,"width":285,"height":70},
+		{"id":"6a57be6789076648","type":"text","text":"**Основные**\nЭто оксиды металов","x":-260,"y":280,"width":360,"height":100},
+		{"id":"d8e79ce1f9acdcc1","type":"text","text":"Амфотерные","x":120,"y":300,"width":250,"height":60},
+		{"id":"e68bdd7097df6a39","x":380,"y":300,"width":250,"height":60,"type":"text","text":"Кислотные"},
+		{"id":"820ac355752411ee","x":640,"y":300,"width":250,"height":60,"type":"text","text":"Безразличные"}
+	],
+	"edges":[
+		{"id":"963684969ad13d28","fromNode":"e07ed9ddfe2f9287","fromSide":"bottom","toNode":"6a57be6789076648","toSide":"top"},
+		{"id":"0a717f707f4433d4","fromNode":"e07ed9ddfe2f9287","fromSide":"bottom","toNode":"d8e79ce1f9acdcc1","toSide":"top"},
+		{"id":"9645ccd8fd1540ca","fromNode":"e07ed9ddfe2f9287","fromSide":"bottom","toNode":"e68bdd7097df6a39","toSide":"top"},
+		{"id":"1a7b7b0d500c0c1d","fromNode":"e07ed9ddfe2f9287","fromSide":"bottom","toNode":"820ac355752411ee","toSide":"top"}
+	]
+}

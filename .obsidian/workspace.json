@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "9f2dd7ee4405a1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d19cf8aa6c310cf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f855e1d863f1e999",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d8552507ad060b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2cd303c6eca77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ce2765c7603a953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8beea68ee268e554",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79f3d54644106b6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "773607c6039d902f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b225d2de5945a7d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f79962d8307f8b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Биология С.Р..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Биология С.Р."
+            }
+          },
+          {
+            "id": "21946257a7a4e61c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Биология С.Р..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Биология С.Р."
+            }
+          },
+          {
+            "id": "4781b4165363e028",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f846b86eb825edd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2d07a4d25332756f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2d07a4d25332756f",
+  "lastOpenFiles": [
+    "00 - Learning/Java/Класс.md",
+    "00 - Learning/Java/Полиморфизм.md",
+    "00 - Learning/Java/ООП.md",
+    "00 - Learning/Java/Инкапсуляция.md",
+    "00 - Learning/Java/Байт-код Java.md",
+    "00 - Learning/Java/История Java.md",
+    "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
+    "00 - Learning/Java/Наследование.md",
+    "00 - Learning/Java/Интерфейс.md",
+    "00 - Learning/00 - Books/OpenGL_4.pdf",
+    "00 - Learning/Java/Выполнение программы на Java.md",
+    "01 - Projects/Project options realization.md",
+    "Вопросы.md",
+    "Untitled 12.md",
+    "Untitled 11.md",
+    "Untitled 10.md",
+    "01 - Projects/Starfall/ideas.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Cache/Pasted image 20250124115604.png",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "фыфывфывфыв.md",
+    "Cache/Pasted image 20241128214917.png",
+    "Cache/Pasted image 20241128205741.png",
+    "Cache/Pasted image 20241128205330.png",
+    "Cache/безымянный.png",
+    "00 - Learning/CSS",
+    "00 - Learning/HTML",
+    "01 - Projects/Starfall",
+    "00 - Learning/OpenGL",
+    "01 - Projects/progression.canvas",
+    "00 - Learning/Collage/Chemistry/Canvases/Сложные вещества.canvas",
+    "00 - Learning/Collage/Biology",
+    "00 - Learning/Collage/Chemistry/Canvases/Оксиды.canvas",
+    "00 - Learning/Collage/Chemistry/Canvases",
+    "00 - Learning/Collage/Chemistry",
+    "00 - Learning/Collage/Biology",
+    "Cache/wallhaven-7392y3.jpg",
+    "Cache/Pasted image 20240626230434.png",
+    "Untitled 1.canvas",
+    "Cache/Pasted image 20240626230611.png",
+    "Cache/wallhaven-5gq159.png"
+  ]
+}

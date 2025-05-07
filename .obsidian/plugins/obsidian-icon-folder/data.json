@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabCss3",
+      "FabHtml5",
+      "FarStar",
+      "FasPaintbrush",
+      "FasVirus"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "00 - Learning": "FasBook",
+  "01 - Projects": "FasGear",
+  "02 - Daily": "FasCalendarDays",
+  "00 - Learning/Google effective searching.md": "FabGoogle",
+  "00 - Learning/00 - Books": "FasBookOpen",
+  "00 - Learning/Linux": "FabLinux",
+  "00 - Learning/Collage": "FasSchoolFlag",
+  "00 - Learning/Collage/Chemistry": "FasBiohazard",
+  "00 - Learning/Java": "FabJava",
+  "00 - Learning/Collage/Biology": "FasVirus",
+  "00 - Learning/OpenGL": "FasPaintbrush",
+  "01 - Projects/Starfall": "FarStar",
+  "00 - Learning/HTML": "FabHtml5",
+  "00 - Learning/CSS": "FabCss3"
+}

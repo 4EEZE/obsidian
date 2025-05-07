@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"591befe2cd4ca05c","type":"group","x":-791,"y":520,"width":1036,"height":560,"label":"Двухэлементные"},
+		{"id":"22f1bc23b0bd0bc2","type":"text","text":"Сложные вещества","x":-125,"y":-20,"width":165,"height":80},
+		{"id":"b70d68042ec7cddb","type":"text","text":"Двухэлементные\n(бинарные)","x":-425,"y":240,"width":225,"height":63},
+		{"id":"b42576a2847031f3","type":"text","text":"[[Оксиды.canvas|Оксиды]]\n(имеет в составе O)","x":-768,"y":571,"width":278,"height":69},
+		{"id":"4428d45609a6b217","type":"text","text":"Сульфиды\n(имеет в составе S)","x":-454,"y":560,"width":284,"height":80},
+		{"id":"01f295d9a8b4f8a2","type":"text","text":"Хлориды\n(Имеет в составе Cl)","x":-140,"y":560,"width":320,"height":80},
+		{"id":"45cbb335ff81a2a3","type":"text","text":"Фториды\n(имеет в составе F)","x":-101,"y":720,"width":301,"height":81},
+		{"id":"76e8ac3034c80473","type":"text","text":"Нитриды\n(имеет в составе N)","x":-421,"y":720,"width":281,"height":63},
+		{"id":"a4f8eef27e6b0e1d","type":"text","text":"Бромиды\n(имеет в составе Br)","x":-740,"y":720,"width":288,"height":81},
+		{"id":"b9ada68ca33202ce","type":"text","text":"Йодиты\n(имеет в составе I)","x":-425,"y":840,"width":283,"height":89},
+		{"id":"f217b196aa4b9319","type":"text","text":"Многоэлементные","x":800,"y":240,"width":250,"height":60},
+		{"id":"40e85aed6da862cc","type":"text","text":"**Основания**\nВсегда содержат металл и гидроксидную группу OH\n==НАЗВАНИЕ:==\n==гидроксид + название металл==","x":780,"y":477,"width":360,"height":143},
+		{"id":"54bae2a309cc42f2","type":"text","text":"**Сильные основания**\n**(щелочи)**\nCa, Na, K, Fr, Sr, Rb, Ba, Ra\n\n","x":580,"y":700,"width":260,"height":140},
+		{"id":"13e56aba74b42956","type":"text","text":"**Слабые основания**\nCu","x":940,"y":700,"width":250,"height":60},
+		{"id":"094661b4aa3add44","type":"text","text":"Кислоты","x":1420,"y":480,"width":250,"height":60},
+		{"id":"0a3ea454a79ad980","type":"text","text":"**Безкислородные**\nне металл + H","x":1300,"y":620,"width":245,"height":80},
+		{"id":"8f2d9e7ee8cdef53","type":"text","text":"**Кислородосодержащие**\nH2SO4 - серная кислота;\nNHO3 - азотная кислота;\nH3PO4 - мышьяковая кислота;\nH2SiO3 - кремневая;\nHNO2 - азотистая;\nH2SO3 - сернистая кислота;","x":1560,"y":620,"width":335,"height":340},
+		{"id":"4d678e011f1f6f31","type":"text","text":"**Соли**\nнеметалл + название соли + название метелла","x":2080,"y":480,"width":280,"height":140},
+		{"id":"87ede6d68111a75c","type":"text","text":"**Средние соли**","x":1940,"y":795,"width":205,"height":60},
+		{"id":"19e7e9cc1e274fc2","type":"text","text":"Основные соли","x":2620,"y":795,"width":250,"height":60},
+		{"id":"a0c996f546c74d74","type":"text","text":"Двойные соли","x":2915,"y":795,"width":250,"height":60},
+		{"id":"1d4ea635349bc739","type":"text","text":"**Кислые соли**","x":2280,"y":795,"width":185,"height":60}
+	],
+	"edges":[
+		{"id":"c544680372690942","fromNode":"22f1bc23b0bd0bc2","fromSide":"bottom","toNode":"b70d68042ec7cddb","toSide":"top"},
+		{"id":"a1bf29eec44b2a34","fromNode":"22f1bc23b0bd0bc2","fromSide":"bottom","toNode":"f217b196aa4b9319","toSide":"top"},
+		{"id":"75f70c0c6e7d3c36","fromNode":"b70d68042ec7cddb","fromSide":"bottom","toNode":"591befe2cd4ca05c","toSide":"top"},
+		{"id":"abdab0f156afab54","fromNode":"f217b196aa4b9319","fromSide":"bottom","toNode":"40e85aed6da862cc","toSide":"top"},
+		{"id":"59d87b6bf9aef0e3","fromNode":"40e85aed6da862cc","fromSide":"bottom","toNode":"54bae2a309cc42f2","toSide":"top"},
+		{"id":"6fb21381d878a906","fromNode":"40e85aed6da862cc","fromSide":"bottom","toNode":"13e56aba74b42956","toSide":"top"},
+		{"id":"849cf15fcd0440e4","fromNode":"f217b196aa4b9319","fromSide":"bottom","toNode":"094661b4aa3add44","toSide":"top"},
+		{"id":"58863a5df2bd9fd6","fromNode":"094661b4aa3add44","fromSide":"bottom","toNode":"0a3ea454a79ad980","toSide":"top"},
+		{"id":"57f4945d4f0a09f1","fromNode":"094661b4aa3add44","fromSide":"bottom","toNode":"8f2d9e7ee8cdef53","toSide":"top"},
+		{"id":"4cc6342af53217da","fromNode":"22f1bc23b0bd0bc2","fromSide":"bottom","toNode":"4d678e011f1f6f31","toSide":"top"},
+		{"id":"cf4d0310e903a32b","fromNode":"4d678e011f1f6f31","fromSide":"bottom","toNode":"87ede6d68111a75c","toSide":"top"},
+		{"id":"fcba52ab1f4ef485","fromNode":"4d678e011f1f6f31","fromSide":"bottom","toNode":"1d4ea635349bc739","toSide":"top"},
+		{"id":"47ad85b46282ec49","fromNode":"4d678e011f1f6f31","fromSide":"bottom","toNode":"19e7e9cc1e274fc2","toSide":"top"},
+		{"id":"129d28d218969c91","fromNode":"4d678e011f1f6f31","fromSide":"bottom","toNode":"a0c996f546c74d74","toSide":"top"}
+	]
+}
