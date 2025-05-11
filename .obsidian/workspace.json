@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1f9d87b94c2d6f2",
+            "id": "1a844ff34758fbf6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "java-rukovodstvo-dlya-nachinayushih-9-izd"
+            }
+          },
+          {
+            "id": "7e73b02d6290b286",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +32,8 @@
               "icon": "lucide-file",
               "title": "Литерал"
             }
-          },
-          {
-            "id": "a1e6842b20632d54",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,20 +188,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1e6842b20632d54",
+  "active": "1a844ff34758fbf6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "00 - Learning/Java/Литерал.md",
-    "Untitled`",
-    "00 - Learning/Java/Примимтивные типы данных Java.md",
+    "00 - Learning/Java/Управяющие последовательностью символов.md",
     "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
+    "00 - Learning/Java/Литерал.md",
+    "00 - Learning/Java/Наследование.md",
+    "00 - Learning/Java/Полиморфизм.md",
+    "00 - Learning/Java/boolean.md",
+    "00 - Learning/Java/Примимтивные типы данных Java.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled`",
     "00 - Learning/HTML/Элементы HTML.md",
     "00 - Learning/Java/short.md",
     "00 - Learning/Java/byte.md",
-    "00 - Learning/Java/boolean.md",
-    "00 - Learning/Java/Полиморфизм.md",
     "00 - Learning/Java/ООП.md",
-    "00 - Learning/Java/Наследование.md",
     "00 - Learning/Java/История Java.md",
     "00 - Learning/Java/Класс.md",
     "00 - Learning/Java/long.md",
@@ -220,7 +218,6 @@
     "00 - Learning/Java/Интерфейс.md",
     "00 - Learning/00 - Books/OpenGL_4.pdf",
     "00 - Learning/Java/Выполнение программы на Java.md",
-    "01 - Projects/Project options realization.md",
     "Cache/Pasted image 20250124115604.png",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
