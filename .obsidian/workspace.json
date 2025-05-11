@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Литерал"
             }
+          },
+          {
+            "id": "a1e6842b20632d54",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,10 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1f9d87b94c2d6f2",
+  "active": "a1e6842b20632d54",
   "lastOpenFiles": [
-    "00 - Learning/Java/Примимтивные типы данных Java.md",
+    "conflict-files-obsidian-git.md",
     "00 - Learning/Java/Литерал.md",
+    "Untitled`",
+    "00 - Learning/Java/Примимтивные типы данных Java.md",
     "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
     "00 - Learning/HTML/Элементы HTML.md",
     "00 - Learning/Java/short.md",
@@ -204,7 +221,6 @@
     "00 - Learning/00 - Books/OpenGL_4.pdf",
     "00 - Learning/Java/Выполнение программы на Java.md",
     "01 - Projects/Project options realization.md",
-    "Вопросы.md",
     "Cache/Pasted image 20250124115604.png",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
@@ -220,7 +236,6 @@
     "00 - Learning/Collage/Chemistry/Canvases/Оксиды.canvas",
     "00 - Learning/Collage/Chemistry/Canvases",
     "00 - Learning/Collage/Chemistry",
-    "00 - Learning/Collage/Biology",
     "Cache/wallhaven-7392y3.jpg",
     "Cache/Pasted image 20240626230434.png",
     "Untitled 1.canvas",
