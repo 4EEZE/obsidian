@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87fa5ffa4ca418de",
+            "id": "fd1e51a4952b9fb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00 - Learning/Java/Литерал.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Литерал"
             }
           }
         ]
@@ -172,8 +176,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87fa5ffa4ca418de",
+  "active": "fd1e51a4952b9fb5",
   "lastOpenFiles": [
+    "00 - Learning/Java/long.md",
+    "00 - Learning/Java/double.md",
+    "IP.md",
+    "conflict-files-obsidian-git.md",
+    "Cache/Pasted image 20250517124750.png",
+    "00 - Learning/Java/Управяющие последовательностью символов.md",
+    "00 - Learning/Java/Примимтивные типы данных Java.md",
+    "00 - Learning/Java/Литерал.md",
+    "00 - Learning/Java/short.md",
+    "00 - Learning/Java/int.md",
+    "00 - Learning/Java/float.md",
+    "00 - Learning/Java/char.md",
+    "00 - Learning/Java/byte.md",
+    "00 - Learning/Java/boolean.md",
     "00 - Learning/Java/ООП.md",
     "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
     "00 - Learning/Java/Класс.md",
@@ -188,20 +206,7 @@
     "01 - Projects/Project options realization.md",
     "Вопросы.md",
     "Untitled 12.md",
-    "Untitled 11.md",
-    "Untitled 10.md",
-    "01 - Projects/Starfall/ideas.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "Cache/Pasted image 20250124115604.png",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "фыфывфывфыв.md",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
     "Cache/Pasted image 20241128205330.png",
