@@ -20,21 +20,6 @@
               "icon": "lucide-file",
               "title": "IP"
             }
-          },
-          {
-            "id": "4372cddd4632d85a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
         ]
       }
@@ -193,8 +178,8 @@
   },
   "active": "1c3d972da567f363",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "IP.md",
+    "conflict-files-obsidian-git.md",
     "Cache/Pasted image 20250603171526.png",
     "Cache/Pasted image 20250603173401.png",
     "Cache/Pasted image 20250603171320.png",
