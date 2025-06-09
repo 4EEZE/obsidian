@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bce94383340785e5",
+        "id": "32ba87026f5e7f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "fab3997779d243bf",
+            "id": "1c3d972da567f363",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IP"
             }
           }
         ]
@@ -172,8 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fab3997779d243bf",
+  "active": "1c3d972da567f363",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "IP.md",
+    "Cache/Pasted image 20250517124750.png",
     "Templates/Universal Template.md",
     "00 - Learning/Java/Литерал.md",
     "00 - Learning/Java/long.md",
@@ -183,7 +190,6 @@
     "00 - Learning/Java/Полиморфизм.md",
     "00 - Learning/Java/boolean.md",
     "00 - Learning/Java/Примимтивные типы данных Java.md",
-    "conflict-files-obsidian-git.md",
     "Untitled`",
     "00 - Learning/HTML/Элементы HTML.md",
     "00 - Learning/Java/short.md",
@@ -201,7 +207,6 @@
     "00 - Learning/Java/Байт-код Java.md",
     "00 - Learning/Java/Интерфейс.md",
     "00 - Learning/00 - Books/OpenGL_4.pdf",
-    "00 - Learning/Java/Выполнение программы на Java.md",
     "Cache/Pasted image 20250124115604.png",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
