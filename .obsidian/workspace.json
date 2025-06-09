@@ -20,6 +20,21 @@
               "icon": "lucide-file",
               "title": "IP"
             }
+          },
+          {
+            "id": "4372cddd4632d85a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
         ]
       }
@@ -180,6 +195,18 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "IP.md",
+    "Cache/Pasted image 20250603171526.png",
+    "Cache/Pasted image 20250603173401.png",
+    "Cache/Pasted image 20250603171320.png",
+    "Cache/Pasted image 20250603171249.png",
+    "Cache/Pasted image 20250520163455.png",
+    "Cache/Схема.png",
+    "Операции отношения.md",
+    "Untitled.md",
+    "00 - Learning/Java/Операции.md",
+    "00 - Learning/Java/Область видимости.md",
+    "00 - Learning/Java/Логические операции.md",
+    "00 - Learning/Java/Арифметические операции.md",
     "Cache/Pasted image 20250517124750.png",
     "Templates/Universal Template.md",
     "00 - Learning/Java/Литерал.md",
@@ -200,18 +227,10 @@
     "00 - Learning/Java/Java.md",
     "00 - Learning/Java/int.md",
     "00 - Learning/Java/float.md",
-    "00 - Learning/Java/double.md",
-    "00 - Learning/Java/char.md",
-    "00 - Learning/Java/Инкапсуляция.md",
-    "README.md",
-    "00 - Learning/Java/Байт-код Java.md",
-    "00 - Learning/Java/Интерфейс.md",
     "00 - Learning/00 - Books/OpenGL_4.pdf",
     "Cache/Pasted image 20250124115604.png",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
-    "Cache/Pasted image 20241128205330.png",
-    "Cache/безымянный.png",
     "00 - Learning/CSS",
     "00 - Learning/HTML",
     "01 - Projects/Starfall",
@@ -222,10 +241,6 @@
     "00 - Learning/Collage/Chemistry/Canvases/Оксиды.canvas",
     "00 - Learning/Collage/Chemistry/Canvases",
     "00 - Learning/Collage/Chemistry",
-    "Cache/wallhaven-7392y3.jpg",
-    "Cache/Pasted image 20240626230434.png",
-    "Untitled 1.canvas",
-    "Cache/Pasted image 20240626230611.png",
-    "Cache/wallhaven-5gq159.png"
+    "Untitled 1.canvas"
   ]
 }
