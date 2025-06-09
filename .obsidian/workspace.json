@@ -4,11 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "32ba87026f5e7f2e",
+        "id": "26dda0bc6cd8453b",
         "type": "tabs",
         "children": [
           {
-            "id": "1c3d972da567f363",
+            "id": "52986bfe62eb3df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Learning/Java/Логические операции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Логические операции"
+            }
+          },
+          {
+            "id": "4dfe21c2295f88b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "java-rukovodstvo-dlya-nachinayushih-9-izd"
+            }
+          },
+          {
+            "id": "33092cfaf98a394e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +47,8 @@
               "title": "IP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "773607c6039d902f",
@@ -163,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,43 +204,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c3d972da567f363",
+  "active": "33092cfaf98a394e",
   "lastOpenFiles": [
-    "IP.md",
     "conflict-files-obsidian-git.md",
-    "Cache/Pasted image 20250603171526.png",
     "Cache/Pasted image 20250603173401.png",
+    "Cache/Pasted image 20250603171526.png",
     "Cache/Pasted image 20250603171320.png",
     "Cache/Pasted image 20250603171249.png",
-    "Cache/Pasted image 20250520163455.png",
     "Cache/Схема.png",
-    "Операции отношения.md",
     "Untitled.md",
+    "IP.md",
     "00 - Learning/Java/Операции.md",
-    "00 - Learning/Java/Область видимости.md",
+    "Операции отношения.md",
+    "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
     "00 - Learning/Java/Логические операции.md",
+    "Cache/Pasted image 20250520163455.png",
     "00 - Learning/Java/Арифметические операции.md",
-    "Cache/Pasted image 20250517124750.png",
-    "Templates/Universal Template.md",
+    "00 - Learning/Java/Область видимости.md",
+    "00 - Learning/00 - Books/OpenGL_4.pdf",
     "00 - Learning/Java/Литерал.md",
     "00 - Learning/Java/long.md",
-    "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
+    "00 - Learning/Java/double.md",
+    "Cache/Pasted image 20250517124750.png",
     "00 - Learning/Java/Управяющие последовательностью символов.md",
-    "00 - Learning/Java/Наследование.md",
-    "00 - Learning/Java/Полиморфизм.md",
-    "00 - Learning/Java/boolean.md",
     "00 - Learning/Java/Примимтивные типы данных Java.md",
-    "Untitled`",
-    "00 - Learning/HTML/Элементы HTML.md",
     "00 - Learning/Java/short.md",
-    "00 - Learning/Java/byte.md",
-    "00 - Learning/Java/ООП.md",
-    "00 - Learning/Java/История Java.md",
-    "00 - Learning/Java/Класс.md",
-    "00 - Learning/Java/Java.md",
     "00 - Learning/Java/int.md",
     "00 - Learning/Java/float.md",
-    "00 - Learning/00 - Books/OpenGL_4.pdf",
+    "00 - Learning/Java/char.md",
+    "00 - Learning/Java/byte.md",
+    "00 - Learning/Java/boolean.md",
+    "00 - Learning/Java/ООП.md",
+    "00 - Learning/Java/Класс.md",
+    "00 - Learning/Java/Полиморфизм.md",
+    "00 - Learning/Java/Инкапсуляция.md",
+    "00 - Learning/Java/Байт-код Java.md",
+    "00 - Learning/Java/История Java.md",
     "Cache/Pasted image 20250124115604.png",
     "Cache/Pasted image 20241128214917.png",
     "Cache/Pasted image 20241128205741.png",
@@ -226,6 +253,7 @@
     "00 - Learning/Collage/Chemistry/Canvases/Оксиды.canvas",
     "00 - Learning/Collage/Chemistry/Canvases",
     "00 - Learning/Collage/Chemistry",
+    "00 - Learning/Collage/Biology",
     "Untitled 1.canvas"
   ]
 }
