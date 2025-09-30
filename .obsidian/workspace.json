@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26dda0bc6cd8453b",
+        "id": "6536144d0c74f499",
         "type": "tabs",
         "children": [
           {
-            "id": "52986bfe62eb3df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Learning/Java/Логические операции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Логические операции"
-            }
-          },
-          {
-            "id": "4dfe21c2295f88b4",
+            "id": "4f71eb46ef354476",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -34,21 +20,19 @@
             }
           },
           {
-            "id": "33092cfaf98a394e",
+            "id": "db795a30a980ac08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IP.md",
-                "mode": "source",
-                "source": false
+                "file": "00 - Learning/00 - Books/Core Java Vol 12 - I.pdf"
               },
-              "icon": "lucide-file",
-              "title": "IP"
+              "icon": "lucide-file-text",
+              "title": "Core Java Vol 12 - I"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "773607c6039d902f",
@@ -195,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -204,46 +188,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33092cfaf98a394e",
+  "active": "db795a30a980ac08",
   "lastOpenFiles": [
-    "Cache/404.png",
-    "Cache/ProjectPage.png",
-    "Cache/SITE.png",
-    "conflict-files-obsidian-git.md",
-    "Cache/Pasted image 20250603173401.png",
-    "Cache/Pasted image 20250603171526.png",
-    "Cache/Pasted image 20250603171320.png",
-    "Cache/Pasted image 20250603171249.png",
-    "Cache/Схема.png",
-    "Untitled.md",
-    "IP.md",
-    "00 - Learning/Java/Операции.md",
-    "Операции отношения.md",
+    "Работа над ошибками.md",
+    "00 - Learning/00 - Books/Core Java Vol 12 - I.pdf",
     "00 - Learning/00 - Books/java-rukovodstvo-dlya-nachinayushih-9-izd.pdf",
-    "00 - Learning/Java/Логические операции.md",
-    "Cache/Pasted image 20250520163455.png",
-    "00 - Learning/Java/Арифметические операции.md",
-    "00 - Learning/Java/Область видимости.md",
+    "00 - Learning/Java/Наследование.md",
     "00 - Learning/00 - Books/OpenGL_4.pdf",
-    "00 - Learning/Java/Литерал.md",
-    "00 - Learning/Java/long.md",
-    "00 - Learning/Java/double.md",
-    "Cache/Pasted image 20250517124750.png",
-    "00 - Learning/Java/Управяющие последовательностью символов.md",
-    "00 - Learning/Java/Примимтивные типы данных Java.md",
-    "00 - Learning/Java/short.md",
-    "00 - Learning/Java/int.md",
-    "00 - Learning/Java/float.md",
-    "00 - Learning/Java/char.md",
-    "00 - Learning/Java/byte.md",
-    "00 - Learning/Java/boolean.md",
-    "00 - Learning/Java/ООП.md",
-    "00 - Learning/Java/Класс.md",
     "00 - Learning/Java/Полиморфизм.md",
-    "00 - Learning/Java/Инкапсуляция.md",
-    "00 - Learning/Java/Байт-код Java.md",
+    "Untitled.md",
+    "00 - Learning/Java/byte.md",
+    "00 - Learning/Java/float.md",
+    "00 - Learning/Java/long.md",
+    "00 - Learning/Java/int.md",
+    "00 - Learning/Java/double.md",
+    "00 - Learning/Java/char.md",
+    "00 - Learning/Java/boolean.md",
+    "Templates/Universal Template.md",
+    "00 - Learning/Java/ООП.md",
+    "00 - Learning/Java/Литерал.md",
     "00 - Learning/Java/История Java.md",
+    "00 - Learning/Java/Инкапсуляция.md",
+    "00 - Learning/Java/Выполнение программы на Java.md",
+    "00 - Learning/Java/Байт-код Java.md",
+    "01 - Projects/Starfall/ideas.md",
+    "01 - Projects/Project options realization.md",
+    "01 - Projects/Starfall/Storyline.md",
+    "01 - Projects/Starfall/Starfall Design Doc B1.md",
+    "01 - Projects/Starfall/TODO.md",
+    "README.md",
+    "00 - Learning/Java/Операции отношения.md",
+    "Cache/Pasted image 20250603171249.png",
+    "Cache/Pasted image 20250517124750.png",
     "Cache/Pasted image 20250124115604.png",
+    "Cache/Pasted image 20241128214917.png",
+    "Cache/Pasted image 20241128205741.png",
+    "Cache/Pasted image 20241128205330.png",
+    "Cache/Схема.png",
+    "Cache/ProjectPage 1.png",
+    "Cache/SITE 1.png",
+    "Cache/ProjectPage.png",
     "00 - Learning/CSS",
     "00 - Learning/HTML",
     "01 - Projects/Starfall",
@@ -254,7 +238,6 @@
     "00 - Learning/Collage/Chemistry/Canvases/Оксиды.canvas",
     "00 - Learning/Collage/Chemistry/Canvases",
     "00 - Learning/Collage/Chemistry",
-    "00 - Learning/Collage/Biology",
     "Untitled 1.canvas"
   ]
 }
